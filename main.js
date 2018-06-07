@@ -1,11 +1,6 @@
 //main.js
-//#6 Modules & require
-// Current Directory: './'
-let counter = require("./lib/count");
+//#7_ModulePatterns
 
-console.log(
-    counter(["sean", "crystal", "ryu"])
-);
 
 
 
